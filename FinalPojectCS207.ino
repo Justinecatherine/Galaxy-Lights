@@ -1,7 +1,6 @@
 /*
  * 
  * Justine McIver
- * 200399163
  * December 6, 2019
  * CS207
  * Final Project
