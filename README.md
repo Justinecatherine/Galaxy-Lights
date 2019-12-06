@@ -60,7 +60,7 @@
   
   - connect 560Ω resistors to Ground
   
-  ## Power
+  ### Power
   - connect the positive wire to 5V 
   
   - connect ground wire to Ground
