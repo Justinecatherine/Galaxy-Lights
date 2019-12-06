@@ -1,22 +1,34 @@
 # Galaxy Lights
 ## Introduction
   Galaxy Lights is a project inpired by [Pu Gong Ying Tu (Dandelion Painting) by Jie Qi](http://technolojie.com/pu-gong-ying-tu-dandelion-painting/). However, in this project we will be creating a galaxy painting with stars using tiny LEDs. The stars, LEDs, will be turned on and create different lighting effects when motion is detected by a motion sensor.
+  [Finished Project Image](https://drive.google.com/file/d/1Qm-bAdXfovEsgjYaIKAhbRUrFtgGyWbw/view?usp=sharing)
   
   ## Supplies
   1x [Arduino Uno](https://solarbotics.com/product/50450/)
+  
   5x [560Ω resistors](https://solarbotics.com/product/r560ohm/)
+  
   5x [battery operated LED light string with enameled covered wire](https://solarbotics.com/product/60600/)
+  
   1x [PIR motion sensor](https://solarbotics.com/product/35185/)
+  
   1x [battery holder](https://solarbotics.com/product/600060/)
+  
   battery
-  clear tape 
+  
+  clear tape
+  
   [wire](https://solarbotics.com/product/21052/)
   
   ### Optional
   [yupo paper](https://www.amazon.ca/Legion-Paper-L21YUP197WH1114-Watercolor-Polypropylene/dp/B0042SYLVK/ref=sr_1_7?keywords=yupo+paper&qid=1575586081&sr=8-7)
+  
   [alcohol ink](https://www.amazon.ca/Ranger-THoltz-Alcohol-Beach-Deco/dp/B01IQA5AT6/ref=sr_1_17?keywords=alcohol+ink&qid=1575586117&sr=8-17) For more information on using Alcohol inks visit [here](https://www.youtube.com/watch?v=luGJtpf53m0).
+  
   canvas (I got mine at Michaels)
+  
   floating frame (I got mine at dollarama for $4)
+  
   duct tape (I used pink coloured duct tape)
   
   ## Build
@@ -33,6 +45,7 @@
   To use this project just secure to a wall or place vertically. To activate the motion sensory walk byor waving your hand. The code has four different lighting effects.Each activation of the motion sensor will cycle through 1 of these effects. There is also code that is commented out that will cycle through all effects with one activation of the motion sensor.
   ## Credits
   Jie Qi for the inspiration artwork http://technolojie.com/pu-gong-ying-tu-dandelion-painting/
+  
   Radom Nerd Tutorials for the PIR motion sensor tutorial https://randomnerdtutorials.com/arduino-with-pir-motion-sensor/
   
   
