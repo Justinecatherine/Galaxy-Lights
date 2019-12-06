@@ -1,7 +1,7 @@
 # Galaxy Lights
 ## Introduction
   Galaxy Lights is a project inpired by [Pu Gong Ying Tu (Dandelion Painting) by Jie Qi](http://technolojie.com/pu-gong-ying-tu-dandelion-painting/). However, in this project we will be creating a galaxy painting with stars using tiny LEDs. The stars, LEDs, will be turned on and create different lighting effects when motion is detected by a motion sensor.
-  ![Finished Project Image](Documents/GalaxyLights/IMG_20191202_151526.jpg)
+  ![Finished Project Image](This PC/Documents/GalaxyLights/IMG_20191202_151526.jpg)
   
   
   ## Supplies
